@@ -4,6 +4,7 @@ body{
 #egy{
 	margin: 10px;
 	text-align: center;
+<<<<<<< HEAD
 }
 
 a:link
@@ -20,4 +21,6 @@ a:hover, a:active {
   background-color: white;
   color: black;
   
+=======
+>>>>>>> eef042d10459b91713fe630996e5ffd0fb48247b
 }
