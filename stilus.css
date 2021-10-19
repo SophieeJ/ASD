@@ -1,3 +1,23 @@
 body{
 	background-color: lightblue;
 }
+#egy{
+	margin: 10px;
+	text-align: center;
+}
+
+a:link
+{
+	background-color: black;
+	text-align: center;
+	color:white;
+	text-decoration: none;
+	display: inline-block;
+	padding: 14px 25px;
+	border-radius: 10px;
+}
+a:hover, a:active {
+  background-color: white;
+  color: black;
+  
+}
