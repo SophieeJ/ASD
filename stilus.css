@@ -4,11 +4,17 @@ body{
 #egy{
 	margin: 10px;
 	text-align: center;
+<<<<<<< HEAD
 }
 #ketto{
 	margin: 25px;
 	text-align: center;
 }
+=======
+<<<<<<< HEAD
+}
+
+>>>>>>> 68bace03278720787c6e4e17d740b703b660c88f
 a:link
 {
 	background-color: black;
@@ -22,4 +28,10 @@ a:link
 a:hover, a:active {
   background-color: white;
   color: black;
+<<<<<<< HEAD
+=======
+  
+=======
+>>>>>>> eef042d10459b91713fe630996e5ffd0fb48247b
+>>>>>>> 68bace03278720787c6e4e17d740b703b660c88f
 }
